@@ -7,6 +7,7 @@
 ## Dockerコンテナの起動
 
 ```sh
+cd 5.0-stable
 cp .env.example .env
 docker compose up
 ```
@@ -14,6 +15,7 @@ docker compose up
 ## フィクスチャの保存
 
 ```sh
+cd 5.0-stable
 docker compose exec redmine rake -R ./tasks extract_fixtures_ext \
   DIR=./fixtures \
   SKIP_TABLES=tokens \
