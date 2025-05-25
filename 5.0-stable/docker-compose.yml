@@ -1,26 +1,20 @@
 services:
   redmine:
-    # .envでRedmineバージョンを切り替えたいので、コンテナ・イメージ名をダミーで指定
-    container_name: redmine-theme-${REDMINE_BRANCH}
-    image: redmine-theme-${REDMINE_BRANCH}
     build:
-      context: ./docker/${REDMINE_BRANCH}
+      context: .
       args:
-        REDMINE_BRANCH: ${REDMINE_BRANCH}
         RAILS_ENV: ${RAILS_ENV}
     platform: linux/amd64
     ports:
       - 3000:3000
     volumes:
-      - ./config/database.yml:/usr/src/redmine/config/database.yml
-      - ./config/puma.rb:/usr/src/redmine/config/puma.rb
-      - ./files:/usr/src/redmine/files
       - ./fixtures:/usr/src/redmine/fixtures
-      - ./tasks:/usr/src/redmine/tasks
-      - ./plugins:/usr/src/redmine/plugins
       - ./sqlite:/usr/src/redmine/sqlite
-      # - ./themes:/usr/src/redmine/public/themes # redmine < 6.0
-      # - ./themes:/usr/src/redmine/themes # redmine >= 6.0
+      - ../config/database.yml:/usr/src/redmine/config/database.yml
+      - ../config/puma.rb:/usr/src/redmine/config/puma.rb
+      - ../files:/usr/src/redmine/files
+      - ../tasks:/usr/src/redmine/tasks
+      - ../plugins:/usr/src/redmine/plugins
     env_file:
       - .env
     environment:

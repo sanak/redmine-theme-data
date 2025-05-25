@@ -1,4 +1,6 @@
 .env
+**/sqlite/*.db
+**/sqlite/*.sqlite
 
 .DS_Store
 *.code-workspace
