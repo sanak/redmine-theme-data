@@ -1,0 +1,29 @@
+services:
+  redmine:
+    # .envでRedmineバージョンを切り替えたいので、コンテナ・イメージ名をダミーで指定
+    container_name: storybook-redmine-${REDMINE_BRANCH}
+    image: storybook-redmine-${REDMINE_BRANCH}
+    build:
+      context: ./docker/${REDMINE_BRANCH}
+      args:
+        REDMINE_BRANCH: ${REDMINE_BRANCH}
+        RAILS_ENV: ${RAILS_ENV}
+    platform: linux/amd64
+    ports:
+      - 3000:3000
+    volumes:
+      - ./config/database.yml:/usr/src/redmine/config/database.yml
+      - ./config/puma.rb:/usr/src/redmine/config/puma.rb
+      - ./files:/usr/src/redmine/files
+      - ./fixtures:/usr/src/redmine/fixtures
+      - ./tasks:/usr/src/redmine/tasks
+      - ./plugins:/usr/src/redmine/plugins
+      - ./sqlite:/usr/src/redmine/sqlite
+      # - ./themes:/usr/src/redmine/public/themes # redmine < 6.0
+      # - ./themes:/usr/src/redmine/themes # redmine >= 6.0
+    env_file:
+      - .env
+    environment:
+      REDMINE_DB_DATABASE: "sqlite/redmine${REDMINE_BRANCH}.db"
+      LD_PRELOAD: /usr/lib/x86_64-linux-gnu/faketime/libfaketime.so.1
+      FAKETIME: 2022-10-23 04:02:00

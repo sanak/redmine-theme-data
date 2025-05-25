@@ -1,0 +1,6 @@
+---
+issue_relations_001:
+  id: 1
+  issue_from_id: 1
+  issue_to_id: 2
+  relation_type: relates

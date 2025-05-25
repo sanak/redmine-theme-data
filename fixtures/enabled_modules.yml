@@ -1,0 +1,601 @@
+---
+enabled_modules_001:
+  id: 1
+  project_id: 1
+  name: issue_tracking
+enabled_modules_002:
+  id: 2
+  project_id: 1
+  name: time_tracking
+enabled_modules_003:
+  id: 3
+  project_id: 1
+  name: news
+enabled_modules_004:
+  id: 4
+  project_id: 1
+  name: documents
+enabled_modules_005:
+  id: 5
+  project_id: 1
+  name: files
+enabled_modules_006:
+  id: 6
+  project_id: 1
+  name: wiki
+enabled_modules_007:
+  id: 7
+  project_id: 1
+  name: repository
+enabled_modules_008:
+  id: 8
+  project_id: 1
+  name: boards
+enabled_modules_009:
+  id: 9
+  project_id: 1
+  name: calendar
+enabled_modules_010:
+  id: 10
+  project_id: 1
+  name: gantt
+enabled_modules_011:
+  id: 11
+  project_id: 2
+  name: issue_tracking
+enabled_modules_012:
+  id: 12
+  project_id: 2
+  name: time_tracking
+enabled_modules_013:
+  id: 13
+  project_id: 2
+  name: news
+enabled_modules_014:
+  id: 14
+  project_id: 2
+  name: documents
+enabled_modules_015:
+  id: 15
+  project_id: 2
+  name: files
+enabled_modules_016:
+  id: 16
+  project_id: 2
+  name: wiki
+enabled_modules_017:
+  id: 17
+  project_id: 2
+  name: repository
+enabled_modules_018:
+  id: 18
+  project_id: 2
+  name: boards
+enabled_modules_019:
+  id: 19
+  project_id: 2
+  name: calendar
+enabled_modules_020:
+  id: 20
+  project_id: 2
+  name: gantt
+enabled_modules_021:
+  id: 21
+  project_id: 3
+  name: issue_tracking
+enabled_modules_022:
+  id: 22
+  project_id: 3
+  name: time_tracking
+enabled_modules_023:
+  id: 23
+  project_id: 3
+  name: news
+enabled_modules_024:
+  id: 24
+  project_id: 3
+  name: documents
+enabled_modules_025:
+  id: 25
+  project_id: 3
+  name: files
+enabled_modules_026:
+  id: 26
+  project_id: 3
+  name: wiki
+enabled_modules_027:
+  id: 27
+  project_id: 3
+  name: repository
+enabled_modules_028:
+  id: 28
+  project_id: 3
+  name: boards
+enabled_modules_029:
+  id: 29
+  project_id: 3
+  name: calendar
+enabled_modules_030:
+  id: 30
+  project_id: 3
+  name: gantt
+enabled_modules_031:
+  id: 31
+  project_id: 4
+  name: issue_tracking
+enabled_modules_032:
+  id: 32
+  project_id: 4
+  name: time_tracking
+enabled_modules_033:
+  id: 33
+  project_id: 4
+  name: news
+enabled_modules_034:
+  id: 34
+  project_id: 4
+  name: documents
+enabled_modules_035:
+  id: 35
+  project_id: 4
+  name: files
+enabled_modules_036:
+  id: 36
+  project_id: 4
+  name: wiki
+enabled_modules_037:
+  id: 37
+  project_id: 4
+  name: repository
+enabled_modules_038:
+  id: 38
+  project_id: 4
+  name: boards
+enabled_modules_039:
+  id: 39
+  project_id: 4
+  name: calendar
+enabled_modules_040:
+  id: 40
+  project_id: 4
+  name: gantt
+enabled_modules_041:
+  id: 41
+  project_id: 5
+  name: issue_tracking
+enabled_modules_042:
+  id: 42
+  project_id: 5
+  name: time_tracking
+enabled_modules_043:
+  id: 43
+  project_id: 5
+  name: news
+enabled_modules_044:
+  id: 44
+  project_id: 5
+  name: documents
+enabled_modules_045:
+  id: 45
+  project_id: 5
+  name: files
+enabled_modules_046:
+  id: 46
+  project_id: 5
+  name: wiki
+enabled_modules_047:
+  id: 47
+  project_id: 5
+  name: repository
+enabled_modules_048:
+  id: 48
+  project_id: 5
+  name: boards
+enabled_modules_049:
+  id: 49
+  project_id: 5
+  name: calendar
+enabled_modules_050:
+  id: 50
+  project_id: 5
+  name: gantt
+enabled_modules_051:
+  id: 51
+  project_id: 6
+  name: issue_tracking
+enabled_modules_052:
+  id: 52
+  project_id: 6
+  name: time_tracking
+enabled_modules_053:
+  id: 53
+  project_id: 6
+  name: news
+enabled_modules_054:
+  id: 54
+  project_id: 6
+  name: documents
+enabled_modules_055:
+  id: 55
+  project_id: 6
+  name: files
+enabled_modules_056:
+  id: 56
+  project_id: 6
+  name: wiki
+enabled_modules_057:
+  id: 57
+  project_id: 6
+  name: repository
+enabled_modules_058:
+  id: 58
+  project_id: 6
+  name: boards
+enabled_modules_059:
+  id: 59
+  project_id: 6
+  name: calendar
+enabled_modules_060:
+  id: 60
+  project_id: 6
+  name: gantt
+enabled_modules_061:
+  id: 61
+  project_id: 7
+  name: issue_tracking
+enabled_modules_062:
+  id: 62
+  project_id: 7
+  name: time_tracking
+enabled_modules_063:
+  id: 63
+  project_id: 7
+  name: news
+enabled_modules_064:
+  id: 64
+  project_id: 7
+  name: documents
+enabled_modules_065:
+  id: 65
+  project_id: 7
+  name: files
+enabled_modules_066:
+  id: 66
+  project_id: 7
+  name: wiki
+enabled_modules_067:
+  id: 67
+  project_id: 7
+  name: repository
+enabled_modules_068:
+  id: 68
+  project_id: 7
+  name: boards
+enabled_modules_069:
+  id: 69
+  project_id: 7
+  name: calendar
+enabled_modules_070:
+  id: 70
+  project_id: 7
+  name: gantt
+enabled_modules_071:
+  id: 71
+  project_id: 8
+  name: issue_tracking
+enabled_modules_072:
+  id: 72
+  project_id: 8
+  name: time_tracking
+enabled_modules_073:
+  id: 73
+  project_id: 8
+  name: news
+enabled_modules_074:
+  id: 74
+  project_id: 8
+  name: documents
+enabled_modules_075:
+  id: 75
+  project_id: 8
+  name: files
+enabled_modules_076:
+  id: 76
+  project_id: 8
+  name: wiki
+enabled_modules_077:
+  id: 77
+  project_id: 8
+  name: repository
+enabled_modules_078:
+  id: 78
+  project_id: 8
+  name: boards
+enabled_modules_079:
+  id: 79
+  project_id: 8
+  name: calendar
+enabled_modules_080:
+  id: 80
+  project_id: 8
+  name: gantt
+enabled_modules_081:
+  id: 81
+  project_id: 9
+  name: issue_tracking
+enabled_modules_082:
+  id: 82
+  project_id: 9
+  name: time_tracking
+enabled_modules_083:
+  id: 83
+  project_id: 9
+  name: news
+enabled_modules_084:
+  id: 84
+  project_id: 9
+  name: documents
+enabled_modules_085:
+  id: 85
+  project_id: 9
+  name: files
+enabled_modules_086:
+  id: 86
+  project_id: 9
+  name: wiki
+enabled_modules_087:
+  id: 87
+  project_id: 9
+  name: repository
+enabled_modules_088:
+  id: 88
+  project_id: 9
+  name: boards
+enabled_modules_089:
+  id: 89
+  project_id: 9
+  name: calendar
+enabled_modules_090:
+  id: 90
+  project_id: 9
+  name: gantt
+enabled_modules_091:
+  id: 91
+  project_id: 10
+  name: issue_tracking
+enabled_modules_092:
+  id: 92
+  project_id: 10
+  name: time_tracking
+enabled_modules_093:
+  id: 93
+  project_id: 10
+  name: news
+enabled_modules_094:
+  id: 94
+  project_id: 10
+  name: documents
+enabled_modules_095:
+  id: 95
+  project_id: 10
+  name: files
+enabled_modules_096:
+  id: 96
+  project_id: 10
+  name: wiki
+enabled_modules_097:
+  id: 97
+  project_id: 10
+  name: repository
+enabled_modules_098:
+  id: 98
+  project_id: 10
+  name: boards
+enabled_modules_099:
+  id: 99
+  project_id: 10
+  name: calendar
+enabled_modules_100:
+  id: 100
+  project_id: 10
+  name: gantt
+enabled_modules_101:
+  id: 101
+  project_id: 11
+  name: issue_tracking
+enabled_modules_102:
+  id: 102
+  project_id: 11
+  name: time_tracking
+enabled_modules_103:
+  id: 103
+  project_id: 11
+  name: news
+enabled_modules_104:
+  id: 104
+  project_id: 11
+  name: documents
+enabled_modules_105:
+  id: 105
+  project_id: 11
+  name: files
+enabled_modules_106:
+  id: 106
+  project_id: 11
+  name: wiki
+enabled_modules_107:
+  id: 107
+  project_id: 11
+  name: repository
+enabled_modules_108:
+  id: 108
+  project_id: 11
+  name: boards
+enabled_modules_109:
+  id: 109
+  project_id: 11
+  name: calendar
+enabled_modules_110:
+  id: 110
+  project_id: 11
+  name: gantt
+enabled_modules_111:
+  id: 111
+  project_id: 12
+  name: issue_tracking
+enabled_modules_112:
+  id: 112
+  project_id: 12
+  name: time_tracking
+enabled_modules_113:
+  id: 113
+  project_id: 12
+  name: news
+enabled_modules_114:
+  id: 114
+  project_id: 12
+  name: documents
+enabled_modules_115:
+  id: 115
+  project_id: 12
+  name: files
+enabled_modules_116:
+  id: 116
+  project_id: 12
+  name: wiki
+enabled_modules_117:
+  id: 117
+  project_id: 12
+  name: repository
+enabled_modules_118:
+  id: 118
+  project_id: 12
+  name: boards
+enabled_modules_119:
+  id: 119
+  project_id: 12
+  name: calendar
+enabled_modules_120:
+  id: 120
+  project_id: 12
+  name: gantt
+enabled_modules_121:
+  id: 121
+  project_id: 13
+  name: issue_tracking
+enabled_modules_122:
+  id: 122
+  project_id: 13
+  name: time_tracking
+enabled_modules_123:
+  id: 123
+  project_id: 13
+  name: news
+enabled_modules_124:
+  id: 124
+  project_id: 13
+  name: documents
+enabled_modules_125:
+  id: 125
+  project_id: 13
+  name: files
+enabled_modules_126:
+  id: 126
+  project_id: 13
+  name: wiki
+enabled_modules_127:
+  id: 127
+  project_id: 13
+  name: repository
+enabled_modules_128:
+  id: 128
+  project_id: 13
+  name: boards
+enabled_modules_129:
+  id: 129
+  project_id: 13
+  name: calendar
+enabled_modules_130:
+  id: 130
+  project_id: 13
+  name: gantt
+enabled_modules_131:
+  id: 131
+  project_id: 14
+  name: issue_tracking
+enabled_modules_132:
+  id: 132
+  project_id: 14
+  name: time_tracking
+enabled_modules_133:
+  id: 133
+  project_id: 14
+  name: news
+enabled_modules_134:
+  id: 134
+  project_id: 14
+  name: documents
+enabled_modules_135:
+  id: 135
+  project_id: 14
+  name: files
+enabled_modules_136:
+  id: 136
+  project_id: 14
+  name: wiki
+enabled_modules_137:
+  id: 137
+  project_id: 14
+  name: repository
+enabled_modules_138:
+  id: 138
+  project_id: 14
+  name: boards
+enabled_modules_139:
+  id: 139
+  project_id: 14
+  name: calendar
+enabled_modules_140:
+  id: 140
+  project_id: 14
+  name: gantt
+enabled_modules_141:
+  id: 141
+  project_id: 15
+  name: issue_tracking
+enabled_modules_142:
+  id: 142
+  project_id: 15
+  name: time_tracking
+enabled_modules_143:
+  id: 143
+  project_id: 15
+  name: news
+enabled_modules_144:
+  id: 144
+  project_id: 15
+  name: documents
+enabled_modules_145:
+  id: 145
+  project_id: 15
+  name: files
+enabled_modules_146:
+  id: 146
+  project_id: 15
+  name: wiki
+enabled_modules_147:
+  id: 147
+  project_id: 15
+  name: repository
+enabled_modules_148:
+  id: 148
+  project_id: 15
+  name: boards
+enabled_modules_149:
+  id: 149
+  project_id: 15
+  name: calendar
+enabled_modules_150:
+  id: 150
+  project_id: 15
+  name: gantt

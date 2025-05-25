@@ -1,0 +1,296 @@
+---
+watchers_001:
+  id: 1
+  watchable_type: News
+  watchable_id: 1
+  user_id: 1
+watchers_002:
+  id: 2
+  watchable_type: News
+  watchable_id: 2
+  user_id: 1
+watchers_003:
+  id: 3
+  watchable_type: Message
+  watchable_id: 1
+  user_id: 1
+watchers_004:
+  id: 4
+  watchable_type: Message
+  watchable_id: 4
+  user_id: 1
+watchers_006:
+  id: 6
+  watchable_type: Message
+  watchable_id: 6
+  user_id: 1
+watchers_007:
+  id: 7
+  watchable_type: Message
+  watchable_id: 7
+  user_id: 1
+watchers_008:
+  id: 8
+  watchable_type: Message
+  watchable_id: 8
+  user_id: 1
+watchers_009:
+  id: 9
+  watchable_type: Message
+  watchable_id: 9
+  user_id: 1
+watchers_010:
+  id: 10
+  watchable_type: Message
+  watchable_id: 10
+  user_id: 1
+watchers_011:
+  id: 11
+  watchable_type: Message
+  watchable_id: 11
+  user_id: 1
+watchers_012:
+  id: 12
+  watchable_type: Message
+  watchable_id: 12
+  user_id: 1
+watchers_013:
+  id: 13
+  watchable_type: Message
+  watchable_id: 13
+  user_id: 1
+watchers_014:
+  id: 14
+  watchable_type: Message
+  watchable_id: 14
+  user_id: 1
+watchers_015:
+  id: 15
+  watchable_type: Message
+  watchable_id: 15
+  user_id: 1
+watchers_016:
+  id: 16
+  watchable_type: Message
+  watchable_id: 16
+  user_id: 1
+watchers_017:
+  id: 17
+  watchable_type: Message
+  watchable_id: 17
+  user_id: 1
+watchers_018:
+  id: 18
+  watchable_type: Message
+  watchable_id: 18
+  user_id: 1
+watchers_019:
+  id: 19
+  watchable_type: Message
+  watchable_id: 5
+  user_id: 1
+watchers_020:
+  id: 20
+  watchable_type: Issue
+  watchable_id: 1
+  user_id: 1
+watchers_021:
+  id: 21
+  watchable_type: Issue
+  watchable_id: 10
+  user_id: 1
+watchers_022:
+  id: 22
+  watchable_type: Issue
+  watchable_id: 12
+  user_id: 1
+watchers_023:
+  id: 23
+  watchable_type: Issue
+  watchable_id: 2
+  user_id: 1
+watchers_024:
+  id: 24
+  watchable_type: Issue
+  watchable_id: 3
+  user_id: 1
+watchers_025:
+  id: 25
+  watchable_type: Issue
+  watchable_id: 4
+  user_id: 1
+watchers_026:
+  id: 26
+  watchable_type: Issue
+  watchable_id: 9
+  user_id: 1
+watchers_027:
+  id: 27
+  watchable_type: Issue
+  watchable_id: 5
+  user_id: 1
+watchers_028:
+  id: 28
+  watchable_type: Issue
+  watchable_id: 6
+  user_id: 1
+watchers_029:
+  id: 29
+  watchable_type: Issue
+  watchable_id: 7
+  user_id: 1
+watchers_030:
+  id: 30
+  watchable_type: Issue
+  watchable_id: 8
+  user_id: 1
+watchers_031:
+  id: 31
+  watchable_type: Issue
+  watchable_id: 11
+  user_id: 1
+watchers_032:
+  id: 32
+  watchable_type: Issue
+  watchable_id: 14
+  user_id: 1
+watchers_033:
+  id: 33
+  watchable_type: Issue
+  watchable_id: 13
+  user_id: 1
+watchers_034:
+  id: 34
+  watchable_type: Issue
+  watchable_id: 15
+  user_id: 1
+watchers_035:
+  id: 35
+  watchable_type: Issue
+  watchable_id: 16
+  user_id: 1
+watchers_036:
+  id: 36
+  watchable_type: Issue
+  watchable_id: 17
+  user_id: 1
+watchers_037:
+  id: 37
+  watchable_type: Issue
+  watchable_id: 18
+  user_id: 1
+watchers_038:
+  id: 38
+  watchable_type: Issue
+  watchable_id: 19
+  user_id: 1
+watchers_039:
+  id: 39
+  watchable_type: Issue
+  watchable_id: 20
+  user_id: 1
+watchers_040:
+  id: 40
+  watchable_type: Issue
+  watchable_id: 21
+  user_id: 1
+watchers_041:
+  id: 41
+  watchable_type: Issue
+  watchable_id: 22
+  user_id: 1
+watchers_042:
+  id: 42
+  watchable_type: Issue
+  watchable_id: 23
+  user_id: 1
+watchers_043:
+  id: 43
+  watchable_type: Issue
+  watchable_id: 24
+  user_id: 1
+watchers_044:
+  id: 44
+  watchable_type: Issue
+  watchable_id: 25
+  user_id: 1
+watchers_045:
+  id: 45
+  watchable_type: Issue
+  watchable_id: 26
+  user_id: 1
+watchers_046:
+  id: 46
+  watchable_type: Issue
+  watchable_id: 27
+  user_id: 1
+watchers_047:
+  id: 47
+  watchable_type: Issue
+  watchable_id: 28
+  user_id: 1
+watchers_048:
+  id: 48
+  watchable_type: Issue
+  watchable_id: 29
+  user_id: 1
+watchers_049:
+  id: 49
+  watchable_type: Issue
+  watchable_id: 30
+  user_id: 1
+watchers_050:
+  id: 50
+  watchable_type: Issue
+  watchable_id: 31
+  user_id: 1
+watchers_051:
+  id: 51
+  watchable_type: Issue
+  watchable_id: 32
+  user_id: 1
+watchers_052:
+  id: 52
+  watchable_type: Issue
+  watchable_id: 33
+  user_id: 1
+watchers_053:
+  id: 53
+  watchable_type: Issue
+  watchable_id: 34
+  user_id: 1
+watchers_054:
+  id: 54
+  watchable_type: Issue
+  watchable_id: 35
+  user_id: 1
+watchers_055:
+  id: 55
+  watchable_type: Issue
+  watchable_id: 36
+  user_id: 1
+watchers_056:
+  id: 56
+  watchable_type: Issue
+  watchable_id: 37
+  user_id: 1
+watchers_057:
+  id: 57
+  watchable_type: Issue
+  watchable_id: 38
+  user_id: 1
+watchers_058:
+  id: 58
+  watchable_type: Issue
+  watchable_id: 39
+  user_id: 1
+watchers_059:
+  id: 59
+  watchable_type: Issue
+  watchable_id: 40
+  user_id: 1
+watchers_060:
+  id: 60
+  watchable_type: Board
+  watchable_id: 1
+  user_id: 1

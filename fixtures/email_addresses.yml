@@ -1,0 +1,43 @@
+---
+email_addresses_001:
+  id: 1
+  user_id: 1
+  address: admin@example.net
+  is_default: true
+  created_on: 2022-10-18 03:37:00
+  updated_on: 2022-10-18 03:37:00
+email_addresses_002:
+  id: 2
+  user_id: 10
+  address: user1@example.com
+  is_default: true
+  created_on: 2022-10-20 00:00:00
+  updated_on: 2022-10-20 00:00:00
+email_addresses_003:
+  id: 3
+  user_id: 11
+  address: user2@example.com
+  is_default: true
+  created_on: 2022-10-20 00:00:30
+  updated_on: 2022-10-20 00:00:30
+email_addresses_004:
+  id: 4
+  user_id: 12
+  address: user3@example.com
+  is_default: true
+  created_on: 2022-10-20 00:01:00
+  updated_on: 2022-10-20 00:01:00
+email_addresses_005:
+  id: 5
+  user_id: 13
+  address: user4@example.com
+  is_default: true
+  created_on: 2022-10-20 00:01:20
+  updated_on: 2022-10-20 00:01:20
+email_addresses_006:
+  id: 6
+  user_id: 14
+  address: user5@example.com
+  is_default: true
+  created_on: 2022-10-20 00:01:40
+  updated_on: 2022-10-20 00:01:40

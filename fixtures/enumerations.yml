@@ -1,0 +1,52 @@
+---
+enumerations_001:
+  id: 1
+  name: 低め
+  position: 1
+  type: IssuePriority
+  position_name: lowest
+enumerations_002:
+  id: 2
+  name: 通常
+  position: 2
+  is_default: true
+  type: IssuePriority
+  position_name: default
+enumerations_003:
+  id: 3
+  name: 高め
+  position: 3
+  type: IssuePriority
+  position_name: high3
+enumerations_004:
+  id: 4
+  name: 急いで
+  position: 4
+  type: IssuePriority
+  position_name: high2
+enumerations_005:
+  id: 5
+  name: 今すぐ
+  position: 5
+  type: IssuePriority
+  position_name: highest
+enumerations_006:
+  id: 6
+  name: ユーザー文書
+  position: 1
+  type: DocumentCategory
+enumerations_007:
+  id: 7
+  name: 技術文書
+  position: 2
+  type: DocumentCategory
+enumerations_008:
+  id: 8
+  name: 設計作業
+  position: 1
+  type: TimeEntryActivity
+enumerations_009:
+  id: 9
+  name: 開発作業
+  position: 2
+  type: TimeEntryActivity
