@@ -1,8 +1,8 @@
 services:
   redmine:
     # .envでRedmineバージョンを切り替えたいので、コンテナ・イメージ名をダミーで指定
-    container_name: storybook-redmine-${REDMINE_BRANCH}
-    image: storybook-redmine-${REDMINE_BRANCH}
+    container_name: redmine-theme-${REDMINE_BRANCH}
+    image: redmine-theme-${REDMINE_BRANCH}
     build:
       context: ./docker/${REDMINE_BRANCH}
       args:
