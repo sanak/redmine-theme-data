@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Ref: https://github.com/docker-library/redmine/blob/a000f11a67e7e7f315398fb83a9262e47998b663/5.1/bookworm/docker-entrypoint.sh
+# Ref: https://github.com/docker-library/redmine/blob/79fdb4829c95432ad05877fea0b27793b35bfd6f/6.0/bookworm/docker-entrypoint.sh
 set -Eeo pipefail
 # TODO add "-u"
 

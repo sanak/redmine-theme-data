@@ -1,6 +1,7 @@
 .env
 **/sqlite/*.db
-**/sqlite/*.sqlite
+**/sqlite/*.db-shm
+**/sqlite/*.db-wal
 
 .DS_Store
 *.code-workspace
