@@ -1,0 +1,148 @@
+---
+queries_001:
+  id: 1
+  name: 担当しているチケット
+  filters: |
+    ---
+    status_id:
+      :operator: o
+      :values:
+      - ''
+    assigned_to_id:
+      :operator: "="
+      :values:
+      - me
+    project.status:
+      :operator: "="
+      :values:
+      - '1'
+  sort_criteria: |
+    ---
+    - - priority
+      - desc
+    - - updated_on
+      - desc
+  type: IssueQuery
+  visibility: 2
+queries_002:
+  id: 2
+  name: 報告したチケット
+  filters: |
+    ---
+    status_id:
+      :operator: o
+      :values:
+      - ''
+    author_id:
+      :operator: "="
+      :values:
+      - me
+    project.status:
+      :operator: "="
+      :values:
+      - '1'
+  sort_criteria: |
+    ---
+    - - updated_on
+      - desc
+  type: IssueQuery
+  visibility: 2
+queries_003:
+  id: 3
+  name: 更新したチケット
+  filters: |
+    ---
+    status_id:
+      :operator: o
+      :values:
+      - ''
+    updated_by:
+      :operator: "="
+      :values:
+      - me
+    project.status:
+      :operator: "="
+      :values:
+      - '1'
+  sort_criteria: |
+    ---
+    - - updated_on
+      - desc
+  type: IssueQuery
+  visibility: 2
+queries_004:
+  id: 4
+  name: ウォッチしているチケット
+  filters: |
+    ---
+    status_id:
+      :operator: o
+      :values:
+      - ''
+    watcher_id:
+      :operator: "="
+      :values:
+      - me
+    project.status:
+      :operator: "="
+      :values:
+      - '1'
+  sort_criteria: |
+    ---
+    - - updated_on
+      - desc
+  type: IssueQuery
+  visibility: 2
+queries_005:
+  id: 5
+  name: マイプロジェクト
+  filters: |
+    ---
+    status:
+      :operator: "="
+      :values:
+      - '1'
+    id:
+      :operator: "="
+      :values:
+      - mine
+  type: ProjectQuery
+  visibility: 2
+queries_006:
+  id: 6
+  name: My bookmarks
+  filters: |
+    ---
+    status:
+      :operator: "="
+      :values:
+      - '1'
+    id:
+      :operator: "="
+      :values:
+      - bookmarks
+  type: ProjectQuery
+  visibility: 2
+queries_007:
+  id: 7
+  name: 作業時間
+  filters: |
+    ---
+    spent_on:
+      :operator: "*"
+      :values:
+      - ''
+    user_id:
+      :operator: "="
+      :values:
+      - me
+  sort_criteria: |
+    ---
+    - - spent_on
+      - desc
+  type: TimeEntryQuery
+  visibility: 2
+  options: |
+    ---
+    :totalable_names:
+    - :hours

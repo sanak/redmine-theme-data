@@ -1,0 +1,9 @@
+---
+issue_categories_001:
+  id: 1
+  project_id: 1
+  name: category1
+issue_categories_002:
+  id: 2
+  project_id: 1
+  name: category2

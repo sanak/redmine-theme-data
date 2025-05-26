@@ -1,0 +1,70 @@
+---
+boards_001:
+  id: 1
+  project_id: 1
+  name: forum1
+  description: forum1
+  position: 1
+  topics_count: 16
+  messages_count: 18
+  last_message_id: 18
+boards_002:
+  id: 2
+  project_id: 1
+  name: forum2
+  description: description
+  position: 2
+boards_003:
+  id: 3
+  project_id: 1
+  name: f3
+  description: f3
+  position: 3
+boards_004:
+  id: 4
+  project_id: 1
+  name: f4
+  description: f4
+  position: 4
+boards_005:
+  id: 5
+  project_id: 1
+  name: f5
+  description: f5
+  position: 5
+boards_006:
+  id: 6
+  project_id: 1
+  name: f6
+  description: f6
+  position: 6
+boards_007:
+  id: 7
+  project_id: 1
+  name: f7
+  description: f7
+  position: 7
+boards_008:
+  id: 8
+  project_id: 1
+  name: f8
+  description: f8
+  position: 8
+boards_009:
+  id: 9
+  project_id: 1
+  name: f9
+  description: f9
+  position: 9
+boards_010:
+  id: 10
+  project_id: 1
+  name: f10
+  description: f10
+  position: 10
+boards_011:
+  id: 11
+  project_id: 1
+  name: f11
+  description: f11
+  position: 11

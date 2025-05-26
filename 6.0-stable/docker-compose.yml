@@ -1,0 +1,23 @@
+services:
+  redmine:
+    build:
+      context: .
+      args:
+        RAILS_ENV: ${RAILS_ENV}
+    platform: linux/amd64
+    ports:
+      - 3000:3000
+    volumes:
+      - ./fixtures:/usr/src/redmine/fixtures
+      - ./sqlite:/usr/src/redmine/sqlite
+      - ../config/database.yml:/usr/src/redmine/config/database.yml
+      - ../config/puma.rb:/usr/src/redmine/config/puma.rb
+      - ../files:/usr/src/redmine/files
+      - ../tasks:/usr/src/redmine/tasks
+      - ../plugins:/usr/src/redmine/plugins
+    env_file:
+      - .env
+    environment:
+      REDMINE_DB_DATABASE: "sqlite/redmine.db"
+      LD_PRELOAD: /usr/lib/x86_64-linux-gnu/faketime/libfaketime.so.1
+      FAKETIME: 2022-10-23 04:02:00
