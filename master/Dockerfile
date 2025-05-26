@@ -1,6 +1,6 @@
 # Ref: https://github.com/docker-library/redmine/blob/79fdb4829c95432ad05877fea0b27793b35bfd6f/6.0/bookworm/Dockerfile
 
-FROM ruby:3.3-slim-bookworm
+FROM ruby:3.4-slim-bookworm
 # for storybook (configurable environment)
 ARG RAILS_ENV=production
 
@@ -74,7 +74,7 @@ RUN set -eux; \
 
 # for storybook (use branch)
 # ENV REDMINE_VERSION 6.0.5
-ENV REDMINE_DOWNLOAD_URL https://github.com/redmine/redmine/archive/refs/heads/6.0-stable.tar.gz
+ENV REDMINE_DOWNLOAD_URL https://github.com/redmine/redmine/archive/refs/heads/master.tar.gz
 # ENV REDMINE_DOWNLOAD_SHA256 94dcc53115e0581ac46e60c3ed9318f1926ce464babbb385e5236217d1e6a64e
 ENV RAILS_LOG_TO_STDOUT true
 
