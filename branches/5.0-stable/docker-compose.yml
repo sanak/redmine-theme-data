@@ -10,11 +10,11 @@ services:
     volumes:
       - ./fixtures:/usr/src/redmine/fixtures
       - ./sqlite:/usr/src/redmine/sqlite
-      - ../config/database.yml:/usr/src/redmine/config/database.yml
-      - ../config/puma.rb:/usr/src/redmine/config/puma.rb
-      - ../files:/usr/src/redmine/files
-      - ../tasks:/usr/src/redmine/tasks
-      - ../plugins:/usr/src/redmine/plugins
+      - ../../config/database.yml:/usr/src/redmine/config/database.yml
+      - ../../config/puma.rb:/usr/src/redmine/config/puma.rb
+      - ../../files:/usr/src/redmine/files
+      - ../../tasks:/usr/src/redmine/tasks
+      - ../../plugins:/usr/src/redmine/plugins
     env_file:
       - .env
     environment:
