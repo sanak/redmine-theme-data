@@ -1,0 +1,45 @@
+---
+journal_details_001:
+  id: 1
+  journal_id: 1
+  property: attr
+  prop_key: category_id
+  value: '1'
+journal_details_002:
+  id: 2
+  journal_id: 1
+  property: attr
+  prop_key: fixed_version_id
+  value: '1'
+journal_details_003:
+  id: 3
+  journal_id: 14
+  property: attachment
+  prop_key: '3'
+  value: 200x200.png
+journal_details_004:
+  id: 4
+  journal_id: 14
+  property: attachment
+  prop_key: '4'
+  value: 640x200.png
+journal_details_005:
+  id: 5
+  journal_id: 16
+  property: attr
+  prop_key: status_id
+  old_value: '1'
+  value: '2'
+journal_details_006:
+  id: 6
+  journal_id: 16
+  property: attr
+  prop_key: assigned_to_id
+  value: '10'
+journal_details_007:
+  id: 7
+  journal_id: 16
+  property: attr
+  prop_key: priority_id
+  old_value: '2'
+  value: '3'

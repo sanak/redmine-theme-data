@@ -1,0 +1,27 @@
+---
+issue_statuses_001:
+  id: 1
+  name: 新規
+  position: 1
+issue_statuses_002:
+  id: 2
+  name: 進行中
+  position: 2
+issue_statuses_003:
+  id: 3
+  name: 解決
+  position: 3
+issue_statuses_004:
+  id: 4
+  name: フィードバック
+  position: 4
+issue_statuses_005:
+  id: 5
+  name: 終了
+  is_closed: true
+  position: 5
+issue_statuses_006:
+  id: 6
+  name: 却下
+  is_closed: true
+  position: 6

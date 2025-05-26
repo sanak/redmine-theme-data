@@ -1,0 +1,136 @@
+---
+projects_trackers_001:
+  project_id: 1
+  tracker_id: 1
+projects_trackers_002:
+  project_id: 1
+  tracker_id: 2
+projects_trackers_003:
+  project_id: 1
+  tracker_id: 3
+projects_trackers_004:
+  project_id: 2
+  tracker_id: 1
+projects_trackers_005:
+  project_id: 2
+  tracker_id: 2
+projects_trackers_006:
+  project_id: 2
+  tracker_id: 3
+projects_trackers_007:
+  project_id: 3
+  tracker_id: 1
+projects_trackers_008:
+  project_id: 3
+  tracker_id: 2
+projects_trackers_009:
+  project_id: 3
+  tracker_id: 3
+projects_trackers_010:
+  project_id: 4
+  tracker_id: 1
+projects_trackers_011:
+  project_id: 4
+  tracker_id: 2
+projects_trackers_012:
+  project_id: 4
+  tracker_id: 3
+projects_trackers_013:
+  project_id: 5
+  tracker_id: 1
+projects_trackers_014:
+  project_id: 5
+  tracker_id: 2
+projects_trackers_015:
+  project_id: 5
+  tracker_id: 3
+projects_trackers_016:
+  project_id: 6
+  tracker_id: 1
+projects_trackers_017:
+  project_id: 6
+  tracker_id: 2
+projects_trackers_018:
+  project_id: 6
+  tracker_id: 3
+projects_trackers_019:
+  project_id: 7
+  tracker_id: 1
+projects_trackers_020:
+  project_id: 7
+  tracker_id: 2
+projects_trackers_021:
+  project_id: 7
+  tracker_id: 3
+projects_trackers_022:
+  project_id: 8
+  tracker_id: 1
+projects_trackers_023:
+  project_id: 8
+  tracker_id: 2
+projects_trackers_024:
+  project_id: 8
+  tracker_id: 3
+projects_trackers_025:
+  project_id: 9
+  tracker_id: 1
+projects_trackers_026:
+  project_id: 9
+  tracker_id: 2
+projects_trackers_027:
+  project_id: 9
+  tracker_id: 3
+projects_trackers_028:
+  project_id: 10
+  tracker_id: 1
+projects_trackers_029:
+  project_id: 10
+  tracker_id: 2
+projects_trackers_030:
+  project_id: 10
+  tracker_id: 3
+projects_trackers_031:
+  project_id: 11
+  tracker_id: 1
+projects_trackers_032:
+  project_id: 11
+  tracker_id: 2
+projects_trackers_033:
+  project_id: 11
+  tracker_id: 3
+projects_trackers_034:
+  project_id: 12
+  tracker_id: 1
+projects_trackers_035:
+  project_id: 12
+  tracker_id: 2
+projects_trackers_036:
+  project_id: 12
+  tracker_id: 3
+projects_trackers_037:
+  project_id: 13
+  tracker_id: 1
+projects_trackers_038:
+  project_id: 13
+  tracker_id: 2
+projects_trackers_039:
+  project_id: 13
+  tracker_id: 3
+projects_trackers_040:
+  project_id: 14
+  tracker_id: 1
+projects_trackers_041:
+  project_id: 14
+  tracker_id: 2
+projects_trackers_042:
+  project_id: 14
+  tracker_id: 3
+projects_trackers_043:
+  project_id: 15
+  tracker_id: 1
+projects_trackers_044:
+  project_id: 15
+  tracker_id: 2
+projects_trackers_045:
+  project_id: 15
+  tracker_id: 3

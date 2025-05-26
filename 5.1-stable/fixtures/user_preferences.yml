@@ -1,0 +1,170 @@
+---
+user_preferences_001:
+  id: 1
+  user_id: 1
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :my_page_layout:
+      left:
+      - documents
+      - news
+      - issuesassignedtome
+      - timelog
+      - issuequery__1
+      - issuesupdatedbyme
+      right:
+      - activity
+      - issuesreportedbyme
+      - issuequery
+      - issueswatched
+      top:
+      - issuequery__2
+      - calendar
+    :my_page_settings:
+      issuequery:
+        :query_id: '2'
+      issuequery__1:
+        :query_id: '4'
+    :recently_used_project_ids: '13,8,7'
+    :bookmarked_project_ids: '1,10'
+    :gantt_zoom: 4
+    :gantt_months: 6
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+  time_zone: ''
+user_preferences_002:
+  id: 2
+  user_id: 10
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+    :my_page_layout:
+      left:
+      - issuesassignedtome
+      right:
+      - issuesreportedbyme
+    :my_page_settings: {}
+  time_zone: ''
+user_preferences_003:
+  id: 3
+  user_id: 11
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+    :my_page_layout:
+      left:
+      - issuesassignedtome
+      right:
+      - issuesreportedbyme
+    :my_page_settings: {}
+  time_zone: ''
+user_preferences_004:
+  id: 4
+  user_id: 12
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+    :my_page_layout:
+      left:
+      - issuesassignedtome
+      right:
+      - issuesreportedbyme
+    :my_page_settings: {}
+  time_zone: ''
+user_preferences_005:
+  id: 5
+  user_id: 13
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+    :my_page_layout:
+      left:
+      - issuesassignedtome
+      right:
+      - issuesreportedbyme
+    :my_page_settings: {}
+  time_zone: ''
+user_preferences_006:
+  id: 6
+  user_id: 14
+  others: |
+    ---
+    :no_self_notified: '1'
+    :auto_watch_on:
+    - ''
+    - issue_contributed_to
+    :notify_about_high_priority_issues: '0'
+    :comments_sorting: asc
+    :warn_on_leaving_unsaved: '1'
+    :textarea_font: ''
+    :recently_used_projects: 3
+    :history_default_tab: notes
+    :toolbar_language_options: c,cpp,csharp,css,diff,go,groovy,html,java,javascript,objc,perl,php,python,r,ruby,sass,scala,shell,sql,swift,xml,yaml
+    :default_issue_query: ''
+    :default_project_query: ''
+    :my_page_layout:
+      left:
+      - issuesassignedtome
+      right:
+      - issuesreportedbyme
+    :my_page_settings: {}
+  time_zone: ''
