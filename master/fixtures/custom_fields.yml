@@ -1,0 +1,13 @@
+---
+custom_fields_001:
+  id: 1
+  type: IssueCustomField
+  name: custom field1
+  field_format: string
+  position: 1
+  default_value: ''
+  format_store: |
+    --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    text_formatting: ''
+    url_pattern: ''
+  description: ''
