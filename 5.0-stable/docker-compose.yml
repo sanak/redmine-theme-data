@@ -18,6 +18,6 @@ services:
     env_file:
       - .env
     environment:
-      REDMINE_DB_DATABASE: "sqlite/redmine${REDMINE_BRANCH}.db"
+      REDMINE_DB_DATABASE: "sqlite/redmine.db"
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/faketime/libfaketime.so.1
       FAKETIME: 2022-10-23 04:02:00

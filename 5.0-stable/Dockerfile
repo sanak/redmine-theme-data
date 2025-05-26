@@ -112,7 +112,9 @@ RUN set -eux; \
 	rm -rf /var/lib/apt/lists/*; \
 	\
 # for storybook (allow development)
-#	gosu redmine bundle config --local without 'development test'; \
+if [ "$RAILS_ENV" = "production" ]; then \
+	gosu redmine bundle config --local without 'development test'; \
+fi; \
 # https://github.com/redmine/redmine/commit/23dc108e70a0794f444803ac827a690085dcd557
 # ("gem puma" already exists in the Gemfile, but under "group :test" and we want it all the time)
 	puma="$(grep -E "^[[:space:]]*gem [:'\"]puma['\",[:space:]].*\$" Gemfile)"; \

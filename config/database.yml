@@ -7,8 +7,6 @@ default: &default
 
 production:
   <<: *default
-  database: <%= ENV["REDMINE_DB_DATABASE"] || "sqlite/redmine_prod.db" %>
 
 development:
   <<: *default
-  database: <%= ENV["REDMINE_DB_DATABASE"] || "sqlite/redmine_dev.db" %>
