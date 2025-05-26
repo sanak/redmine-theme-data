@@ -11,6 +11,10 @@ cd branches/6.0-stable
 cp .env.example .env
 docker compose up
 ```
+Railsサービス起動後、ブラウザで http://localhost:3000 にアクセスしてRedmineにログインします。
+デフォルトのログイン情報は以下の通りです。
+- ユーザー名: `admin`
+- パスワード: `password`
 
 ## フィクスチャの保存
 
